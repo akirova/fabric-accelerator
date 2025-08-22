@@ -26,7 +26,7 @@
                 "database": "WideWorldImporters"
               },
               "externalReferences": {
-                "connection": "a0a57e51-5032-4e46-b0f0-493c9d2f51c9"
+                "connection": "6081e873-3dd0-4330-9b4a-ac74b573fba3"
               }
             }
           },
@@ -52,7 +52,7 @@
                 "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "a91b18f3-cb1d-4ec8-9829-3412c6acde9c"
               }
             }
           },
@@ -296,7 +296,7 @@
                 "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "a91b18f3-cb1d-4ec8-9829-3412c6acde9c"
               }
             }
           },
@@ -324,7 +324,7 @@
                 "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "a91b18f3-cb1d-4ec8-9829-3412c6acde9c"
               }
             }
           },
@@ -538,7 +538,7 @@
               "database": "WideWorldImporters"
             },
             "externalReferences": {
-              "connection": "a0a57e51-5032-4e46-b0f0-493c9d2f51c9"
+              "connection": "6081e873-3dd0-4330-9b4a-ac74b573fba3"
             }
           }
         }
@@ -620,7 +620,7 @@
                 "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "a91b18f3-cb1d-4ec8-9829-3412c6acde9c"
               }
             }
           ]
@@ -669,7 +669,7 @@
           "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "a91b18f3-cb1d-4ec8-9829-3412c6acde9c"
         }
       },
       {
@@ -718,7 +718,7 @@
           "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "a91b18f3-cb1d-4ec8-9829-3412c6acde9c"
         }
       }
     ],
