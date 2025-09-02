@@ -26,7 +26,7 @@
                 "database": "WideWorldImporters"
               },
               "externalReferences": {
-                "connection": "a0a57e51-5032-4e46-b0f0-493c9d2f51c9"
+                "connection": "f331639f-30af-4bda-9d11-b69c3460b8d8"
               }
             }
           },
@@ -538,7 +538,7 @@
               "database": "WideWorldImporters"
             },
             "externalReferences": {
-              "connection": "a0a57e51-5032-4e46-b0f0-493c9d2f51c9"
+              "connection": "f331639f-30af-4bda-9d11-b69c3460b8d8"
             }
           }
         }
