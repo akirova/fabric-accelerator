@@ -323,7 +323,7 @@
       },
       "BronzeObjectID": {
         "type": "string",
-        "defaultValue": "c6c5024f-de55-45ca-a79a-decbe16235e3"
+        "defaultValue": "4b0b5a14-9df6-4b51-b71b-f744d8e8b69a"
       },
       "BronzeWorkspaceID": {
         "type": "string",
@@ -331,7 +331,7 @@
       },
       "SilverObjectID": {
         "type": "string",
-        "defaultValue": "c6c5024f-de55-45ca-a79a-decbe16235e3"
+        "defaultValue": "4b0b5a14-9df6-4b51-b71b-f744d8e8b69a"
       },
       "SilverWorkspaceID": {
         "type": "string",
@@ -339,7 +339,7 @@
       },
       "GoldObjectID": {
         "type": "string",
-        "defaultValue": "7e2bbf6b-43fb-498c-90e3-56199c8c3b5e"
+        "defaultValue": "82c90b58-62dc-451c-bcd4-c68f1ae2d031"
       },
       "GoldWorkspaceID": {
         "type": "string",
