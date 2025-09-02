@@ -131,7 +131,7 @@
       "properties": {
         "dataIngestionMode": "ProcessedIngestion",
         "workspaceId": "3639c676-d1c8-4910-8c36-f4148f3703eb",
-        "itemId": "625dbe83-c79c-4db9-aacd-90e95f9cba56",
+        "itemId": "1f643411-8c21-4b8d-89d4-c1d9a862f101",
         "databaseName": "kdb_fabricEvents",
         "tableName": "storageEvents",
         "inputSerialization": {
@@ -278,7 +278,7 @@
       "properties": {
         "dataIngestionMode": "ProcessedIngestion",
         "workspaceId": "3639c676-d1c8-4910-8c36-f4148f3703eb",
-        "itemId": "625dbe83-c79c-4db9-aacd-90e95f9cba56",
+        "itemId": "1f643411-8c21-4b8d-89d4-c1d9a862f101",
         "databaseName": "kdb_fabricEvents",
         "tableName": "workspaceEvents",
         "inputSerialization": {
@@ -425,7 +425,7 @@
       "properties": {
         "dataIngestionMode": "ProcessedIngestion",
         "workspaceId": "3639c676-d1c8-4910-8c36-f4148f3703eb",
-        "itemId": "625dbe83-c79c-4db9-aacd-90e95f9cba56",
+        "itemId": "1f643411-8c21-4b8d-89d4-c1d9a862f101",
         "databaseName": "kdb_fabricEvents",
         "tableName": "jobEvents",
         "inputSerialization": {
