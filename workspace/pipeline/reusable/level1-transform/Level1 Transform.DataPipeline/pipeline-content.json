@@ -37,7 +37,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[UpdateTransformInstance_L1]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-58e6610f-01bd-4a1c-9c40-299782f19a05",
           "storedProcedureParameters": {
             "L1TransformADFPipelineRunID": {
               "value": {
@@ -67,7 +67,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8a149c4e-84d7-4483-beb1-c9253b377dec"
         }
       },
       {
@@ -93,7 +93,7 @@
             "value": "@pipeline().parameters.ComputeName",
             "type": "Expression"
           },
-          "workspaceId": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec",
+          "workspaceId": "3639c676-d1c8-4910-8c36-f4148f3703eb",
           "parameters": {
             "L1TransformInstanceID": {
               "value": {
@@ -247,7 +247,7 @@
             "value": "@replace(replace(pipeline().parameters.ComputeName,'-','_'),' ','')",
             "type": "Expression"
           },
-          "capacityId": "e4eb626a-4082-4143-983d-6fc9284b74cd"
+          "capacityId": "AE637F08-F4EB-48F3-8031-813CC2A47B64d"
         }
       },
       {
@@ -270,7 +270,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[UpdateTransformInstance_L1]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-58e6610f-01bd-4a1c-9c40-299782f19a05",
           "storedProcedureParameters": {
             "IngestCount": {
               "value": {
@@ -328,7 +328,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8a149c4e-84d7-4483-beb1-c9253b377dec"
         }
       },
       {
@@ -458,10 +458,10 @@
             "type": "AzureSqlTable",
             "schema": [],
             "typeProperties": {
-              "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7"
+              "database": "controlDB-58e6610f-01bd-4a1c-9c40-299782f19a05"
             },
             "externalReferences": {
-              "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+              "connection": "8a149c4e-84d7-4483-beb1-c9253b377dec"
             }
           }
         }
@@ -497,7 +497,7 @@
               },
               "typeProperties": {
                 "storedProcedureName": "[ELT].[InsertTransformInstance_L2]",
-                "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+                "database": "controlDB-58e6610f-01bd-4a1c-9c40-299782f19a05",
                 "storedProcedureParameters": {
                   "CustomParameters": {
                     "value": {
@@ -712,7 +712,7 @@
                 }
               },
               "externalReferences": {
-                "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+                "connection": "8a149c4e-84d7-4483-beb1-c9253b377dec"
               }
             }
           ]
@@ -738,7 +738,7 @@
         },
         "typeProperties": {
           "storedProcedureName": "[ELT].[UpdateTransformInstance_L1]",
-          "database": "controlDB-78d6902e-70ea-4fb0-b51e-af3f2aaee3b7",
+          "database": "controlDB-58e6610f-01bd-4a1c-9c40-299782f19a05",
           "storedProcedureParameters": {
             "L1TransformADFPipelineRunID": {
               "value": {
@@ -768,7 +768,7 @@
           }
         },
         "externalReferences": {
-          "connection": "78e8d795-a55c-412e-9b76-47ba404b4d51"
+          "connection": "8a149c4e-84d7-4483-beb1-c9253b377dec"
         }
       },
       {
@@ -883,11 +883,11 @@
       },
       "SilverObjectID": {
         "type": "string",
-        "defaultValue": "cc80a0ab-603d-4df9-bdfc-c35a7e8ab095"
+        "defaultValue": "056f28ae-dc2d-46d1-a603-44719accafbd"
       },
       "SilverWorkspaceID": {
         "type": "string",
-        "defaultValue": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec"
+        "defaultValue": "3639c676-d1c8-4910-8c36-f4148f3703eb"
       }
     },
     "variables": {
